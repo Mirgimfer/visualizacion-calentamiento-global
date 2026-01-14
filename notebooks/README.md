@@ -1,1 +1,1 @@
-# Notebooks de análisis
+Esta carpeta contiene el archivo 'PRA_I_MiriamGimenoFernandez' con el codigo implementado para la integración, limpieza, transformación y análisis exploratorio de los datos empleados en el proyecto de visualización del calentamiento global.
